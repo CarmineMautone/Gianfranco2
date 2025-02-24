@@ -2,13 +2,6 @@
 
 Top!
 
-## Ciao x2
+## Sviluppo locale 
 
-
-
-Ciao:!!
-
-
-## Ciao x3
-
-cvccd
+1. Apri index2.html nel tuo browser.
